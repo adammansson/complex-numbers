@@ -1,1 +1,1 @@
-Complex numbers and the Cartesian complex plane in the terminal.
+Complex numbers and the Cartesian complex plane in the terminal, written in Java.
