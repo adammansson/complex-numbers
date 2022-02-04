@@ -1,1 +1,1 @@
-complex numbers and the Cartesian complex plane in the terminal.
+Complex numbers and the Cartesian complex plane in the terminal.
